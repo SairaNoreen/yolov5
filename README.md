@@ -468,3 +468,4 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 </div>
 
 [tta]: https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/264818686/381bd8a8-8910-4e9e-b0dd-2752951ef78c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250216T171015Z&X-Amz-Expires=300&X-Amz-Signature=eb994cd2062a69dd9190392a9443d57900d76c73d0a402982bc1d0564c608653&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyolov5s.pt&response-content-type=application%2Foctet-stream
